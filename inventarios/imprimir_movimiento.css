@@ -1,0 +1,10 @@
+thead tr th{
+    color: white
+}
+.h-col {
+    height: 20px
+}
+
+div.h-col img {
+    height: 250%;
+}
