@@ -4,15 +4,15 @@
 		
 		$host="localhost";
 		
-		if($_SERVER["SERVER_NAME"] == "estambresatoshka.com"){
+		if($_SERVER["SERVER_NAME"] == "materiales.micrositio.mx"){
 			
-			$db="microsit_atoshka";
+			$db="microsit_materiales";
 			$usuario="microsit_practic";
 			$pass="UAEH@2018";
 		
 		}
 		else{
-			$db="atoshka";
+			$db="materiales";
 			$usuario="sistemas";
 			$pass="Glifom3dia";
 			$set_local = "SET time_zone = '-05:00'";
