@@ -21,7 +21,7 @@
 
 
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark mb-2 na ">
+<nav class="navbar navbar-expand-sm  navbar-light mb-2 na ">
 	
 	<a class="navbar-brand" href="#">
 		<img src="../img/logo_small.png" class="" width="40px">
